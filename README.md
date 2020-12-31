@@ -1,3 +1,3 @@
 # Smart contract
 
-Nordic Energy token contract
+Nordic Energy "NET" token contract
